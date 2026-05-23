@@ -1,0 +1,316 @@
+﻿texto_incidencia,componente,asignacion_departamento,bloqueante,interrumpe_tat,horas_desde_revision
+Estudio de resistencia requerido para las tijeras de amortiguación identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Ingenieria,SI,SI,580.8
+Lote de consumibles caducado utilizado en las tijeras de amortiguación reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Calidad,NO,SI,493.1
+Falta certificado de conformidad en lote de las tijeras de amortiguación reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Calidad,NO,SI,1124.7
+Auditoría interna detecta desviación en el proceso de las sondas Pitot de respaldo identificado en la recepción de materiales de la cadena de suministro.,Electronica,Calidad,NO,SI,130.8
+Acumulación de suciedad y residuos en las antenas de comunicación VHF debido presumiblemente a condiciones ambientales extremas en operación.,Electronica,Mantenimiento,NO,NO,889.8
+Luz de aviso activada en cabina referente a las antenas de comunicación VHF reportado por el operario del turno de noche en el hangar 3.,,Mantenimiento,NO,NO,369.4
+Acumulación de suciedad y residuos en las baterías de emergencia de litio durante la inspección visual tras la llegada del vuelo.,Electronica,Mantenimiento,NO,SI,871.0
+Daño por herramientas (FOD) causado por el operario en las mangueras del líquido de frenos identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Calidad,SI,SI,941.0
+Corrosión galvánica severa en interfaz de las sondas Pitot de respaldo debido presumiblemente a condiciones ambientales extremas en operación.,Electronica,Ingenieria,SI,SI,382.0
+No coinciden los números de serie en el eje de transmisión principal tras la notificación formal del operador de la aerolínea.,Motor,Calidad,SI,SI,548.9
+Ajuste de tensión requerido en las líneas de los soportes del pilón del motor durante la inspección visual tras la llegada del vuelo.,Estructura,Mantenimiento,NO,NO,1074.2
+Ruido anómalo durante la prueba funcional de el mamparo de presión posterior reportado por el operario del turno de noche en el hangar 3.,Estructura,Mantenimiento,NO,SI,1034.6
+Incumplimiento de la norma aeronáutica en el eje de transmisión principal identificado en la fase de control de calidad final antes de entrega.,Motor,Calidad,NO,NO,132.7
+Ajuste de tensión requerido en las líneas de la cámara de combustión durante la inspección visual tras la llegada del vuelo.,Motor,Mantenimiento,NO,NO,
+Luz de aviso activada en cabina referente a los inyectores de combustible observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Mantenimiento,NO,NO,152.0
+Fuga de fluido hidráulico localizada en las sondas Pitot de respaldo detectado durante las pruebas funcionales rutinarias de prevuelo.,Electronica,Mantenimiento,NO,NO,
+Espesor de recubrimiento fuera de rango en el cárter del ventilador detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Calidad,SI,NO,91.7
+Holgura fuera de tolerancia en la unidad de potencia auxiliar (APU) control card tras la notificación formal del operador de la aerolínea.,Electronica,Ingenieria,,SI,1043.0
+Fisura metalúrgica localizada en el larguero principal del fuselaje que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Ingenieria,SI,NO,
+Holgura fuera de tolerancia en la caja de accesorios (AGB) identificado en la fase de control de calidad final antes de entrega.,Motor,Ingenieria,SI,NO,63.1
+Lote de consumibles caducado utilizado en el actuador hidráulico principal detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Calidad,SI,NO,1138.6
+Auditoría interna detecta desviación en el proceso de la cuaderna de sección de cola detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Calidad,SI,,478.4
+Ajuste de tensión requerido en las líneas de el cableado del radar meteorológico tras la notificación formal del operador de la aerolínea.,Electronica,Mantenimiento,SI,NO,979.1
+Deformación por carga térmica en el computador del sistema de control de vuelo debido presumiblemente a condiciones ambientales extremas en operación.,,Ingenieria,SI,NO,921.4
+Deformación por carga térmica en las baterías de emergencia de litio identificado en la recepción de materiales de la cadena de suministro.,Electronica,Ingenieria,NO,NO,319.5
+Ajuste de tensión requerido en las líneas de las antenas de comunicación VHF identificado en la fase de control de calidad final antes de entrega.,Electronica,Mantenimiento,NO,NO,33.4
+Necesidad de rediseño en el soporte de las tijeras de amortiguación detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Ingenieria,SI,SI,789.1
+Acumulación de suciedad y residuos en el computador del sistema de control de vuelo detectado durante las pruebas funcionales rutinarias de prevuelo.,Electronica,Mantenimiento,NO,NO,653.8
+Deformación por carga térmica en la caja de accesorios (AGB) durante la inspección visual tras la llegada del vuelo.,Motor,Ingenieria,SI,NO,121.7
+Fuga de fluido hidráulico localizada en los inyectores de combustible observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Mantenimiento,NO,,564.8
+Necesidad de rediseño en el soporte de el cableado del radar meteorológico identificado en la recepción de materiales de la cadena de suministro.,Electronica,Ingenieria,NO,SI,
+Sustitución rutinaria por horas de vuelo de las mangueras del líquido de frenos identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Mantenimiento,NO,NO,22.8
+Lote de consumibles caducado utilizado en los sensores de proximidad de bloqueo que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Calidad,SI,SI,
+Error de trazabilidad detectada en la cuaderna de sección de cola detectado durante las pruebas funcionales rutinarias de prevuelo.,Estructura,Calidad,NO,SI,654.6
+Daño por herramientas (FOD) causado por el operario en las baterías de emergencia de litio tras la notificación formal del operador de la aerolínea.,Electronica,Calidad,SI,SI,
+Discrepancy en planos de diseño de el borde de ataque del ala izquierda detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Ingenieria,,SI,182.2
+Ruido anómalo durante la prueba funcional de el borde de ataque del ala izquierda debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Mantenimiento,NO,NO,860.9
+Luz de aviso activada en cabina referente a los sensores de proximidad de bloqueo identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Mantenimiento,NO,NO,114.0
+Revisión extraordinaria urgente: el actuador del tren principal acumula ciclos de operación muy por encima del límite estándar sin inspección registrada.,Tren_Aterrizaje,Mantenimiento,SI,NO,3250.0
+No coinciden los números de serie en el larguero principal del fuselaje identificado en la fase de control de calidad final antes de entrega.,Estructura,Calidad,SI,SI,253.4
+Cambio de filtros y purga manual de la cámara de combustión que requiere parada inmediata según el manual general de mantenimiento.,Motor,Mantenimiento,NO,SI,173.3
+Tornillería suministrada sin trazabilidad para las pastillas de freno del tren de morro que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Calidad,NO,NO,350.5
+Necesidad de rediseño en el soporte de el pasador de seguridad del tren tras la notificación formal del operador de la aerolínea.,Tren_Aterrizaje,Ingenieria,SI,SI,360.3
+Cambio de filtros y purga manual de el borde de ataque del ala izquierda durante la inspección visual tras la llegada del vuelo.,Estructura,Mantenimiento,SI,NO,757.2
+Desviación estructural observada en el cableado del radar meteorológico identificado en la fase de control de calidad final antes de entrega.,Electronica,Ingenieria,SI,NO,1018.9
+Deformación por carga térmica en el reverso de empuje debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Ingenieria,SI,SI,1107.1
+Documentación del proveedor incompleta para el borde de ataque del ala izquierda durante la inspección visual tras la llegada del vuelo.,,Calidad,NO,NO,16.7
+No coinciden los números de serie en el mazo de cables del sistema de navegación identificado en la recepción de materiales de la cadena de suministro.,Electronica,Calidad,SI,NO,733.4
+Espesor de recubrimiento fuera de rango en los remaches del revestimiento superior debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Calidad,,NO,910.0
+Desgaste severo por uso operativo en la turbina de alta presión detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Mantenimiento,SI,NO,196.2
+Cambio de filtros y purga manual de las sondas Pitot de respaldo tras la notificación formal del operador de la aerolínea.,Electronica,Mantenimiento,NO,NO,928.8
+Fuga de fluido hidráulico localizada en el borde de ataque del ala izquierda que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Mantenimiento,NO,NO,
+Fuga de fluido hidráulico localizada en el mazo de cables del sistema de navegación que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Mantenimiento,NO,NO,
+Desgaste severo por uso operativo en las mangueras del líquido de frenos durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Mantenimiento,SI,NO,822.3
+Deformación por carga térmica en el larguero principal del fuselaje tras la notificación formal del operador de la aerolínea.,Estructura,Ingenieria,SI,NO,247.3
+Pérdida de presión neumática en el cableado del radar meteorológico reportado por el operario del turno de noche en el hangar 3.,Electronica,Mantenimiento,NO,NO,841.5
+Auditoría interna detecta desviación en el proceso de los inyectores de combustible tras la notificación formal del operador de la aerolínea.,Motor,Calidad,SI,NO,672.5
+Tornillería suministrada sin trazabilidad para las tijeras de amortiguación tras la notificación formal del operador de la aerolínea.,Tren_Aterrizaje,Calidad,SI,SI,918.1
+Firma omitida en la orden de liberación de el eje de transmisión principal detectado durante las pruebas funcionales rutinarias de prevuelo.,Motor,Calidad,SI,SI,
+Sustitución rutinaria por horas de vuelo de la turbina de alta presión tras la notificación formal del operador de la aerolínea.,Motor,Mantenimiento,NO,NO,617.0
+Fisura por fatiga detectada en el eje de transmisión principal reportado por el operario del turno de noche en el hangar 3.,Motor,Ingenieria,SI,SI,267.3
+Fuga de fluido hidráulico localizada en la turbina de alta presión reportado por el operario del turno de noche en el hangar 3.,Motor,Mantenimiento,NO,NO,609.8
+Desgaste severo por uso operativo en la caja de accesorios (AGB) observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Mantenimiento,NO,NO,180.4
+Fuga de fluido hidráulico localizada en la turbina de alta presión reportado por el operario del turno de noche en el hangar 3.,Motor,Mantenimiento,NO,NO,709.9
+Luz de aviso activada en cabina referente a las baterías de emergencia de litio identificado en la fase de control de calidad final antes de entrega.,Electronica,Mantenimiento,NO,NO,1193.4
+Holgura fuera de tolerancia en las antenas de comunicación VHF detectado durante las pruebas funcionales rutinarias de prevuelo.,Electronica,Ingenieria,SI,SI,817.4
+Desgaste asimétrico crítico en la turbina de alta presión debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Ingenieria,SI,SI,1060.4
+Espesor de recubrimiento fuera de rango en el mazo de cables del sistema de navegación identificado en la recepción de materiales de la cadena de suministro.,Electronica,Calidad,SI,SI,152.4
+Deformación por carga térmica en los inyectores de combustible debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Ingenieria,SI,NO,323.9
+Necesidad de rediseño en el soporte de el pasador de seguridad del tren detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Tren_Aterrizaje,Ingenieria,NO,NO,1010.3
+Lote de consumibles caducado utilizado en el eje de transmisión principal observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Calidad,SI,NO,670.0
+Deformación por carga térmica en el pasador de seguridad del tren detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Ingenieria,SI,NO,574.1
+Fallo catastrófico del material en la caja de accesorios (AGB) detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Ingenieria,SI,NO,361.4
+Fuga de fluido hidráulico localizada en el estabilizador horizontal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Mantenimiento,NO,NO,
+Discrepancy en planos de diseño de las baterías de emergencia de litio reportado por el operario del turno de noche en el hangar 3.,Electronica,Ingenieria,SI,SI,965.0
+Deformación por carga térmica en el borde de ataque del ala izquierda reportado por el operario del turno de noche en el hangar 3.,Estructura,Ingenieria,SI,SI,778.4
+Fuga de fluido hidráulico localizada en las sondas Pitot de respaldo detectado durante las pruebas funcionales rutinarias de prevuelo.,Electronica,Mantenimiento,NO,NO,990.9
+Desgaste asimétrico crítico en los inyectores de combustible debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Ingenieria,SI,SI,879.9
+Fisura metalúrgica localizada en la cuaderna de sección de cola reportado por el operario del turno de noche en el hangar 3.,Estructura,Ingenieria,SI,SI,904.7
+Documentación del proveedor incompleta para la unidad de potencia auxiliar (APU) control card que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Calidad,SI,SI,
+Incumplimiento de la norma aeronáutica en los soportes del pilón del motor observado tras la limpieza por ultrasonidos en la línea de reparación.,,Calidad,NO,NO,1157.3
+Ruido anómalo durante la prueba funcional de las baterías de emergencia de litio reportado por el operario del turno de noche en el hangar 3.,Electronica,Mantenimiento,NO,NO,
+Luz de aviso activada en cabina referente a las tijeras de amortiguación identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Mantenimiento,SI,NO,222.5
+Auditoría interna detecta desviación en el proceso de el panel de aviónica principal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Electronica,Calidad,SI,NO,824.3
+Espesor de recubrimiento fuera de rango en el reverso de empuje durante la inspección visual tras la llegada del vuelo.,Motor,Calidad,,NO,966.3
+No coinciden los números de serie en la cámara de combustión observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Calidad,SI,NO,538.2
+Tornillería suministrada sin trazabilidad para la cuaderna de sección de cola identificado en la recepción de materiales de la cadena de suministro.,Estructura,Calidad,NO,SI,1097.6
+Sustitución rutinaria por horas de vuelo de las llantas del tren principal que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Mantenimiento,SI,NO,1166.6
+Pérdida de presión neumática en las sondas Pitot de respaldo que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Mantenimiento,SI,NO,
+Desviación estructural observada en los sensores de proximidad de bloqueo reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Ingenieria,SI,NO,
+Desgaste severo por uso operativo en las pastillas de freno del tren de morro debido presumiblemente a condiciones ambientales extremas en operación.,Tren_Aterrizaje,Mantenimiento,SI,NO,590.7
+Espesor de recubrimiento fuera de rango en el estabilizador horizontal identificado en la fase de control de calidad final antes de entrega.,Estructura,Calidad,SI,SI,313.2
+Deformación por carga térmica en el pasador de seguridad del tren identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Ingenieria,SI,SI,438.5
+Sustitución rutinaria por horas de vuelo de las mangueras del líquido de frenos detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Mantenimiento,NO,NO,1103.5
+Necesidad de rediseño en el soporte de el larguero principal del fuselaje que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Ingenieria,SI,SI,879.9
+Sustitución preventiva de juntas y sellos de el mamparo de presión posterior observado tras la limpieza por ultrasonidos en la línea de reparación.,Estructura,Mantenimiento,NO,NO,1148.3
+Fuga de fluido hidráulico localizada en el eje de transmisión principal durante la inspección visual tras la llegada del vuelo.,Motor,Mantenimiento,NO,NO,1053.7
+Desgaste severo por uso operativo en el computador del sistema de control de vuelo identificado en la recepción de materiales de la cadena de suministro.,Electronica,Mantenimiento,SI,NO,1073.4
+Desviación estructural observada en las tijeras de amortiguación durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Ingenieria,SI,NO,
+Ruido anómalo durante la prueba funcional de el mazo de cables del sistema de navegación que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Mantenimiento,SI,SI,93.8
+Se detecta en el histórico que la tarjeta de control de la APU no ha recibido el mantenimiento preventivo programado durante los últimos tres ciclos de rotación.,Electronica,Mantenimiento,NO,NO,2950.0
+Fuga de fluido hidráulico localizada en la turbina de alta presión identificado en la recepción de materiales de la cadena de suministro.,Motor,Mantenimiento,NO,NO,564.4
+Pérdida de presión neumática en las pastillas de freno del tren de morro que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Mantenimiento,NO,NO,326.0
+Falta certificado de conformidad en lote de los remaches del revestimiento superior observado tras la limpieza por ultrasonidos en la línea de reparación.,Estructura,Calidad,SI,SI,614.9
+Fuga de fluido hidráulico localizada en el computador del sistema de control de vuelo observado tras la limpieza por ultrasonidos en la línea de reparación.,Electronica,Mantenimiento,NO,NO,167.2
+No coinciden los números de serie en la cámara de combustión que requiere parada inmediata según el manual general de mantenimiento.,Motor,Calidad,SI,SI,433.0
+Falta certificado de conformidad en lote de el computador del sistema de control de vuelo observado tras la limpieza por ultrasonidos en la línea de reparación.,Electronica,Calidad,SI,SI,903.1
+No coinciden los números de serie en las sondas Pitot de respaldo identificado en la fase de control de calidad final antes de entrega.,Electronica,Calidad,NO,SI,1095.3
+Firma omitida en la orden de liberación de el computador del sistema de control de vuelo reportado por el operario del turno de noche en el hangar 3.,Electronica,Calidad,SI,SI,
+Anomalía en el comportamiento aerodinámico de las compuertas de la bodega de carga identificado en la fase de control de calidad final antes de entrega.,Estructura,Ingenieria,SI,SI,
+Pieza recibida con embalaje dañado afectando a el pasador de seguridad del tren observado tras la limpieza por ultrasonidos en la línea de reparación.,Tren_Aterrizaje,Calidad,SI,SI,369.4
+Falta certificado de conformidad en lote de el reverso de empuje debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Calidad,NO,SI,433.2
+Necesidad de rediseño en el soporte de las antenas de comunicación VHF reportado por el operario del turno de noche en el hangar 3.,Electronica,Ingenieria,SI,SI,
+Sustitución rutinaria por horas de vuelo de el mazo de cables del sistema de navegación identificado en la fase de control de calidad final antes de entrega.,Electronica,Mantenimiento,NO,NO,874.0
+Espesor de recubrimiento fuera de rango en la turbina de alta presión que requiere parada inmediata según el manual general de mantenimiento.,Motor,Calidad,,SI,483.2
+Luz de aviso activada en cabina referente a los soportes del pilón del motor que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Mantenimiento,NO,NO,
+Necesidad de rediseño en el soporte de el eje de transmisión principal identificado en la fase de control de calidad final antes de entrega.,Motor,Ingenieria,NO,NO,841.2
+No coinciden los números de serie en las compuertas de la bodega de carga reportado por el operario del turno de noche en el hangar 3.,Estructura,Calidad,NO,SI,
+Acumulación de suciedad y residuos en los sensores de proximidad de bloqueo tras la notificación formal del operador de la aerolínea.,Tren_Aterrizaje,Mantenimiento,SI,NO,141.7
+Desgaste severo por uso operativo en la cuaderna de sección de cola debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Mantenimiento,NO,NO,540.7
+Incumplimiento de la norma aeronáutica en los inyectores de combustible detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Calidad,NO,SI,335.8
+Lote de consumibles caducado utilizado en la unidad de potencia auxiliar (APU) control card observado tras la limpieza por ultrasonidos en la línea de reparación.,Electronica,Calidad,NO,SI,930.1
+Daño por herramientas (FOD) causado por el operario en los inyectores de combustible observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Calidad,SI,SI,
+Fallo catastrófico del material en el borde de ataque del ala izquierda identificado en la recepción de materiales de la cadena de suministro.,Estructura,Ingenieria,SI,SI,428.5
+Cambio de filtros y purga manual de los remaches del revestimiento superior reportado por el operario del turno de noche en el hangar 3.,Estructura,Mantenimiento,NO,NO,
+Incumplimiento de la norma aeronáutica en el álabe del compresor CFM56 debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Calidad,SI,SI,215.5
+Corrosión galvánica severa en interfaz de el álabe del compresor CFM56 que requiere parada inmediata según el manual general de mantenimiento.,Motor,Ingenieria,NO,SI,1129.8
+Ruido anómalo durante la prueba funcional de el cableado del radar meteorológico tras la notificación formal del operador de la aerolínea.,Electronica,Mantenimiento,NO,NO,752.7
+Ruido anómalo durante la prueba funcional de las pastillas de freno del tren de morro identificado en la fase de control de calidad final antes de entrega.,Tren_Aterrizaje,Mantenimiento,SI,NO,594.2
+Anomalía en el comportamiento aerodinámico de el cableado del radar meteorológico reportado por el operario del turno de noche en el hangar 3.,Electronica,Ingenieria,SI,SI,676.0
+Firma omitida en la orden de liberación de las mangueras del líquido de frenos reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Calidad,SI,SI,444.2
+Corrosión galvánica severa en interfaz de la turbina de alta presión identificado en la recepción de materiales de la cadena de suministro.,Motor,Ingenieria,SI,SI,1132.3
+Pieza recibida con embalaje dañado afectando a las sondas Pitot de respaldo identificado en la recepción de materiales de la cadena de suministro.,Electronica,Calidad,SI,NO,
+Necesidad de rediseño en el soporte de el borde de ataque del ala izquierda debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Ingenieria,SI,SI,132.1
+Fallo catastrófico del material en las pastillas de freno del tren de morro identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Ingenieria,SI,NO,737.9
+Desviación estructural observada en la caja de accesorios (AGB) identificado en la fase de control de calidad final antes de entrega.,Motor,Ingenieria,SI,SI,510.5
+Fallo catastrófico del material en el borde de ataque del ala izquierda debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Ingenieria,SI,SI,482.3
+Desviación estructural observada en la turbina de alta presión debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Ingenieria,SI,NO,781.0
+Holgura fuera de tolerancia en las pastillas de freno del tren de morro detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Ingenieria,NO,SI,834.6
+Firma omitida en la orden de liberación de el reverso de empuje identificado en la fase de control de calidad final antes de entrega.,Motor,Calidad,SI,SI,578.8
+Documentación del proveedor incompleta para las tijeras de amortiguación tras la notificación formal del operador de la aerolínea.,Tren_Aterrizaje,Calidad,SI,SI,1041.4
+Error de trazabilidad detectada en la cuaderna de sección de cola detectado durante las pruebas funcionales rutinarias de prevuelo.,Estructura,Calidad,NO,SI,654.6
+Fuga de fluido hidráulico localizada en la turbina de alta presión debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Mantenimiento,NO,NO,662.0
+Daño por herramientas (FOD) causado por el operario en los soportes del pilón del motor observado tras la limpieza por ultrasonidos en la línea de reparación.,Estructura,Calidad,SI,NO,341.1
+Ruido anómalo durante la prueba funcional de el panel de aviónica principal que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Mantenimiento,SI,NO,
+Ajuste de tensión requerido en las líneas de la unidad de potencia auxiliar (APU) control card que requiere parada inmediata según el manual general de mantenimiento.,,Mantenimiento,SI,NO,539.1
+Desgaste asimétrico crítico en el estabilizador horizontal tras la notificación formal del operador de la aerolínea.,Estructura,Ingenieria,SI,SI,294.8
+Corrosión superficial leve detectada en el computador del sistema de control de vuelo identificado en la fase de control de calidad final antes de entrega.,Electronica,Mantenimiento,NO,SI,775.1
+Lote de consumibles caducado utilizado en el eje de transmisión principal observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Calidad,SI,SI,573.8
+Ajuste de tensión requerido en las líneas de el muelle de extensión del amortiguador reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Mantenimiento,SI,NO,222.9
+Sustitución rutinaria por horas de vuelo de las mangueras del líquido de frenos identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Mantenimiento,NO,NO,22.8
+Cableado deshilachado debido a rozamiento en el larguero principal del fuselaje que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Mantenimiento,SI,NO,1158.6
+No coinciden los números de serie en las pastillas de freno del tren de morro identificado en la fase de control de calidad final antes de entrega.,Tren_Aterrizaje,Calidad,SI,SI,63.4
+Fisura metalúrgica localizada en las compuertas de la bodega de carga tras la notificación formal del operador de la aerolínea.,Estructura,Ingenieria,NO,SI,1055.3
+Desviación estructural observada en el mamparo de presión posterior debido presumiblemente a condiciones ambientales extremas en operación.,,Ingenieria,SI,SI,465.6
+Corrosión galvánica severa en interfaz de las llantas del tren principal identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Ingenieria,NO,NO,603.5
+Desgaste severo por uso operativo en el mamparo de presión posterior que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Mantenimiento,NO,NO,602.9
+Anomalía en el comportamiento aerodinámico de el muelle de extensión del amortiguador identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Ingenieria,SI,SI,677.9
+Anomalía en el comportamiento aerodinámico de el álabe del compresor CFM56 observado tras la limpieza por ultrasonidos en la línea de reparación.,,Ingenieria,SI,SI,796.2
+Sustitución rutinaria por horas de vuelo de los soportes del pilón del motor tras la notificación formal del operador de la aerolínea.,Estructura,Mantenimiento,NO,NO,1102.6
+Espesor de recubrimiento fuera de rango en las pastillas de freno del tren de morro que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Calidad,NO,NO,1182.3
+Fallo catastrófico del material en el muelle de extensión del amortiguador que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Ingenieria,SI,SI,534.2
+Auditoría interna detecta desviación en el proceso de la caja de accesorios (AGB) que requiere parada inmediata según el manual general de mantenimiento.,Motor,Calidad,SI,SI,557.4
+Incumplimiento de la norma aeronáutica en el borde de ataque del ala izquierda durante la inspección visual tras la llegada del vuelo.,Estructura,Calidad,SI,SI,671.5
+Discrepancy en planos de diseño de las baterías de emergencia de litio reportado por el operario del turno de noche en el hangar 3.,Electronica,Ingenieria,SI,SI,965.0
+Documentación del proveedor incompleta para la turbina de alta presión identificado en la fase de control de calidad final antes de entrega.,Motor,Calidad,SI,NO,717.3
+Auditoría interna detecta desviación en el proceso de la unidad de potencia auxiliar (APU) control card identificado en la recepción de materiales de la cadena de suministro.,Electronica,Calidad,SI,SI,294.1
+Estudio de resistencia requerido para las mangueras del líquido de frenos identificado en la fase de control de calidad final antes de entrega.,Tren_Aterrizaje,Ingenieria,SI,SI,193.7
+Deformación por carga térmica en las baterías de emergencia de litio reportado por el operario del turno de noche en el hangar 3.,Electronica,Ingenieria,SI,NO,634.4
+Discrepancy en planos de diseño de el estabilizador horizontal que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Ingenieria,SI,SI,881.3
+Fisura metalúrgica localizada en las mangueras del líquido de frenos durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Ingenieria,SI,,883.8
+Acumulación de suciedad y residuos en el cárter del ventilador identificado en la recepción de materiales de la cadena de suministro.,Motor,Mantenimiento,SI,NO,52.1
+Ajuste de tensión requerido en las líneas de el cárter del ventilador reportado por el operario del turno de noche en el hangar 3.,Motor,Mantenimiento,NO,NO,284.3
+Desgaste severo por uso operativo en los sensores de proximidad de bloqueo durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Mantenimiento,SI,NO,990.7
+Desviación estructural observada en el eje de transmisión principal observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Ingenieria,SI,SI,868.8
+Falta certificado de conformidad en lote de las sondas Pitot de respaldo reportado por el operario del turno de noche en el hangar 3.,Electronica,Calidad,SI,SI,712.8
+Deformación por carga térmica en la unidad de potencia auxiliar (APU) control card identificado en la fase de control de calidad final antes de entrega.,Electronica,Ingenieria,SI,SI,104.0
+Auditoría interna detecta desviación en el proceso de los inyectores de combustible tras la notificación formal del operador de la aerolínea.,Motor,Calidad,,NO,
+Discrepancy en planos de diseño de el eje de transmisión principal que requiere parada inmediata según el manual general de mantenimiento.,Motor,Ingenieria,SI,SI,103.8
+Anomalía en el comportamiento aerodinámico de el reverso de empuje detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Ingenieria,SI,SI,
+Holgura fuera de tolerancia en el computador del sistema de control de vuelo que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Ingenieria,SI,SI,450.5
+Ruido anómalo durante la prueba funcional de las pastillas de freno del tren de morro reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Mantenimiento,NO,SI,714.0
+Corrosión galvánica severa en interfaz de las tijeras de amortiguación que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Ingenieria,SI,SI,925.3
+Falta certificado de conformidad en lote de el muelle de extensión del amortiguador debido presumiblemente a condiciones ambientales extremas en operación.,Tren_Aterrizaje,Calidad,SI,SI,433.9
+Discrepancy en planos de diseño de los remaches del revestimiento superior identificado en la fase de control de calidad final antes de entrega.,Estructura,Ingenieria,SI,SI,1175.9
+No coinciden los números de serie en el cárter del ventilador observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Calidad,NO,SI,1078.0
+Desviación estructural observada en el panel de aviónica principal detectado durante las pruebas funcionales rutinarias de prevuelo.,Electronica,Ingenieria,NO,SI,260.2
+Anomalía en el comportamiento aerodinámico de el mazo de cables del sistema de navegación debido presumiblemente a condiciones ambientales extremas en operación.,Electronica,Ingenieria,SI,SI,50.0
+Auditoría interna detecta desviación en el proceso de la caja de accesorios (AGB) detectado durante las pruebas funcionales rutinarias de prevuelo.,Motor,Calidad,SI,SI,
+Sustitución rutinaria por horas de vuelo de el mazo de cables del sistema de navegación identificado en la fase de control de calidad final antes de entrega.,Electronica,Mantenimiento,NO,NO,874.0
+Fuga de fluido hidráulico localizada en el borde de ataque del ala izquierda que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Mantenimiento,NO,NO,
+Acumulación de suciedad y residuos en la cámara de combustión que requiere parada inmediata según el manual general de mantenimiento.,Motor,Mantenimiento,NO,NO,1141.3
+Fisura metalúrgica localizada en las mangueras del líquido de frenos identificado en la fase de control de calidad final antes de entrega.,Tren_Aterrizaje,Ingenieria,SI,NO,580.2
+Cambio de filtros y purga manual de las antenas de comunicación VHF durante la inspección visual tras la llegada del vuelo.,Electronica,Mantenimiento,NO,NO,843.9
+Incumplimiento de la norma aeronáutica en las mangueras del líquido de frenos detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Calidad,SI,NO,61.1
+Necesidad de rediseño en el soporte de el actuador hidráulico principal durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Ingenieria,SI,NO,298.9
+Fisura metalúrgica localizada en el computador del sistema de control de vuelo tras la notificación formal del operador de la aerolínea.,Electronica,Ingenieria,NO,SI,962.2
+No coinciden los números de serie en el actuador hidráulico principal identificado en la fase de control de calidad final antes de entrega.,Tren_Aterrizaje,Calidad,SI,SI,678.5
+Tornillería suministrada sin trazabilidad para las llantas del tren principal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Tren_Aterrizaje,Calidad,,SI,331.0
+Fisura metalúrgica localizada en el larguero principal del fuselaje detectado durante las pruebas funcionales rutinarias de prevuelo.,Estructura,Ingenieria,SI,,860.3
+Falta certificado de conformidad en lote de el computador del sistema de control de vuelo identificado en la recepción de materiales de la cadena de suministro.,Electronica,Calidad,SI,NO,98.9
+Fallo catastrófico del material en el actuador hidráulico principal durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Ingenieria,NO,SI,94.6
+Ruido anómalo durante la prueba funcional de las mangueras del líquido de frenos durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Mantenimiento,SI,SI,33.7
+Documentación del proveedor incompleta para las compuertas de la bodega de carga detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Calidad,SI,NO,393.6
+Sustitución preventiva de juntas y sellos de la unidad de potencia auxiliar (APU) control card durante la inspección visual tras la llegada del vuelo.,Electronica,Mantenimiento,NO,NO,556.9
+Ruido anómalo durante la prueba funcional de el mazo de cables del sistema de navegación durante la inspección visual tras la llegada del vuelo.,Electronica,Mantenimiento,NO,NO,437.7
+Auditoría interna detecta desviación en el proceso de el estabilizador horizontal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Calidad,SI,SI,830.8
+Desgaste asimétrico crítico en la cuaderna de sección de cola tras la notificación formal del operador de la aerolínea.,Estructura,Ingenieria,SI,NO,1138.1
+Tornillería suministrada sin trazabilidad para los sensores de proximidad de bloqueo que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Calidad,SI,NO,
+Ajuste de tensión requerido en las líneas de los remaches del revestimiento superior identificado en la fase de control de calidad final antes de entrega.,Estructura,Mantenimiento,NO,,
+Acumulación de suciedad y residuos en el actuador hidráulico principal reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Mantenimiento,NO,NO,1132.4
+Fisura metalúrgica localizada en la cuaderna de sección de cola tras la notificación formal del operador de la aerolínea.,Estructura,Ingenieria,SI,SI,
+Fuga de fluido hidráulico localizada en las antenas de comunicación VHF observado tras la limpieza por ultrasonidos en la línea de reparación.,Electronica,Mantenimiento,SI,NO,160.5
+Documentación del proveedor incompleta para la turbina de alta presión identificado en la fase de control de calidad final antes de entrega.,Motor,Calidad,SI,NO,717.3
+Ajuste de tensión requerido en las líneas de el pasador de seguridad del tren observado tras la limpieza por ultrasonidos en la línea de reparación.,Tren_Aterrizaje,Mantenimiento,NO,NO,
+Inspección estructural profunda requerida por fatiga acumulada extrema en el mamparo de presión tras superar horas límite de ciclo de vida seguro.,Estructura,Ingenieria,SI,SI,4100.0
+Discrepancy en planos de diseño de la turbina de alta presión debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Ingenieria,NO,SI,
+No coinciden los números de serie en las tijeras de amortiguación identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Calidad,NO,SI,635.6
+Fallo catastrófico del material en las pastillas de freno del tren de morro reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Ingenieria,SI,SI,339.4
+Cableado deshilachado debido a rozamiento en el eje de transmisión principal debido presumiblemente a condiciones ambientales extremas en operación.,,Mantenimiento,NO,NO,
+Cambio de filtros y purga manual de el estabilizador horizontal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Mantenimiento,NO,,394.5
+Fisura metalúrgica localizada en las baterías de emergencia de litio observado tras la limpieza por ultrasonidos en la línea de reparación.,,Ingenieria,SI,SI,
+Ruido anómalo durante la prueba funcional de las antenas de comunicación VHF tras la notificación formal del operador de la aerolínea.,Electronica,Mantenimiento,NO,NO,134.6
+Desgaste severo por uso operativo en la cuaderna de sección de cola debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Mantenimiento,NO,SI,833.5
+Cableado deshilachado debido a rozamiento en el computador del sistema de control de vuelo debido presumiblemente a condiciones ambientales extremas en operación.,Electronica,Mantenimiento,NO,NO,
+Incumplimiento de la norma aeronáutica en el álabe del compresor CFM56 identificado en la recepción de materiales de la cadena de suministro.,Motor,Calidad,SI,SI,755.1
+Desgaste severo por uso operativo en el computador del sistema de control de vuelo reportado por el operario del turno de noche en el hangar 3.,,Mantenimiento,NO,NO,1089.8
+Espesor de recubrimiento fuera de rango en el cárter del ventilador tras la notificación formal del operador de la aerolínea.,Motor,Calidad,SI,NO,300.7
+Ajuste de tensión requerido en las líneas de el actuador hidráulico principal tras la notificación formal del operador de la aerolínea.,Tren_Aterrizaje,Mantenimiento,NO,NO,631.1
+Corrosión galvánica severa en interfaz de la unidad de potencia auxiliar (APU) control card identificado en la recepción de materiales de la cadena de suministro.,Electronica,Ingenieria,SI,SI,390.8
+Pieza recibida con embalaje dañado afectando a la caja de accesorios (AGB) detectado durante las pruebas funcionales rutinarias de prevuelo.,Motor,Calidad,SI,SI,946.0
+Firma omitida en la orden de liberación de la cámara de combustión reportado por el operario del turno de noche en el hangar 3.,Motor,Calidad,SI,NO,
+Ajuste de tensión requerido en las líneas de las antenas de comunicación VHF reportado por el operario del turno de noche en el hangar 3.,Electronica,Mantenimiento,NO,NO,
+Ajuste de tensión requerido en las líneas de el álabe del compresor CFM56 identificado en la fase de control de calidad final antes de entrega.,Motor,Mantenimiento,NO,SI,945.1
+Fallo catastrófico del material en el larguero principal del fuselaje reportado por el operario del turno de noche en el hangar 3.,Estructura,Ingenieria,SI,SI,
+Sustitución preventiva de juntas y sellos de el reverso de empuje tras la notificación formal del operador de la aerolínea.,Motor,Mantenimiento,NO,NO,597.4
+Fisura por fatiga detectada en los soportes del pilón del motor identificado en la recepción de materiales de la cadena de suministro.,Estructura,Ingenieria,SI,SI,286.7
+Desviación estructural observada en el mazo de cables del sistema de navegación durante la inspección visual tras la llegada del vuelo.,Electronica,Ingenieria,SI,SI,401.7
+Error de trazabilidad detectada en las llantas del tren principal durante la inspección visual tras la llegada del vuelo.,Tren_Aterrizaje,Calidad,SI,SI,1068.4
+Corrosión superficial leve detectada en el mamparo de presión posterior que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Mantenimiento,NO,SI,551.9
+Fuga de fluido hidráulico localizada en el mamparo de presión posterior que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Mantenimiento,SI,NO,1018.6
+Fisura metalúrgica localizada en las pastillas de freno del tren de morro que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Ingenieria,SI,SI,298.0
+Anomalía en el comportamiento aerodinámico de los inyectores de combustible que requiere parada inmediata según el manual general de mantenimiento.,Motor,Ingenieria,SI,SI,
+Auditoría interna detecta desviación en el proceso de los soportes del pilón del motor identificado en la fase de control de calidad final antes de entrega.,Estructura,Calidad,SI,NO,
+No coinciden los números de serie en la cámara de combustión reportado por el operario del turno de noche en el hangar 3.,Motor,Calidad,NO,SI,1050.5
+Fallo catastrófico del material en el pasador de seguridad del tren detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Ingenieria,SI,NO,979.8
+Deformación por carga térmica en el borde de ataque del ala izquierda identificado en la fase de control de calidad final antes de entrega.,Estructura,Ingenieria,SI,SI,1127.7
+Deformación por carga térmica en las mangueras del líquido de frenos debido presumiblemente a condiciones ambientales extremas en operación.,Tren_Aterrizaje,Ingenieria,,SI,870.5
+Necesidad de rediseño en el soporte de la cuaderna de sección de cola reportado por el operario del turno de noche en el hangar 3.,Estructura,Ingenieria,SI,NO,431.2
+Ajuste de tensión requerido en las líneas de el mamparo de presión posterior tras la notificación formal del operador de la aerolínea.,Estructura,Mantenimiento,SI,NO,396.8
+Falta certificado de conformidad en lote de los inyectores de combustible debido presumiblemente a condiciones ambientales extremas en operación.,Motor,Calidad,SI,SI,953.9
+Falta certificado de conformidad en lote de el eje de transmisión principal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Calidad,NO,SI,
+Sustitución rutinaria por horas de vuelo de la caja de accesorios (AGB) identificado en la fase de control de calidad final antes de entrega.,Motor,Mantenimiento,NO,NO,969.1
+Cableado deshilachado debido a rozamiento en el reverso de empuje detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Mantenimiento,SI,SI,744.3
+Firma omitida en la orden de liberación de las mangueras del líquido de frenos debido presumiblemente a condiciones ambientales extremas en operación.,Tren_Aterrizaje,Calidad,SI,NO,889.0
+Error de trazabilidad detectada en las mangueras del líquido de frenos identificado en la fase de control de calidad final antes de entrega.,Tren_Aterrizaje,Calidad,NO,SI,
+Firma omitida en la orden de liberación de la turbina de alta presión identificado en la fase de control de calidad final antes de entrega.,Motor,Calidad,SI,NO,544.6
+Pérdida de presión neumática en los remaches del revestimiento superior durante la inspección visual tras la llegada del vuelo.,Estructura,Mantenimiento,NO,SI,30.1
+Anomalía en el comportamiento aerodinámico de el estabilizador horizontal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Ingenieria,SI,SI,
+Documentación del proveedor incompleta para las compuertas de la bodega de carga tras la notificación formal del operador de la aerolínea.,Estructura,Calidad,SI,SI,
+Incumplimiento de la norma aeronáutica en el cárter del ventilador detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Calidad,NO,SI,
+Cambio de filtros y purga manual de el cárter del ventilador observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Mantenimiento,SI,NO,865.9
+Documentación del proveedor incompleta para las baterías de emergencia de litio que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Calidad,SI,SI,890.2
+Ajuste de tensión requerido en las líneas de los sensores de proximidad de bloqueo que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Mantenimiento,NO,NO,446.2
+Deformación por carga térmica en el borde de ataque del ala izquierda identificado en la recepción de materiales de la cadena de suministro.,Estructura,Ingenieria,SI,SI,693.4
+Fisura metalúrgica localizada en el cárter del ventilador detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Ingenieria,SI,SI,942.3
+Desgaste asimétrico crítico en las mangueras del líquido de frenos que requiere parada inmediata según el manual general de mantenimiento.,Tren_Aterrizaje,Ingenieria,SI,SI,434.0
+Documentación del proveedor incompleta para las antenas de comunicación VHF identificado en la fase de control de calidad final antes de entrega.,Electronica,Calidad,SI,NO,113.0
+Falta certificado de conformidad en lote de el muelle de extensión del amortiguador observado tras la limpieza por ultrasonidos en la línea de reparación.,Tren_Aterrizaje,Calidad,SI,SI,120.5
+Fallo catastrófico del material en los sensores de proximidad de bloqueo identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Ingenieria,NO,SI,577.1
+No coinciden los números de serie en el mazo de cables del sistema de navegación identificado en la recepción de materiales de la cadena de suministro.,Electronica,Calidad,SI,NO,733.4
+Estudio de resistencia requerido para las llantas del tren principal identificado en la fase de control de calidad final antes de entrega.,Tren_Aterrizaje,Ingenieria,SI,NO,630.9
+Desgaste asimétrico crítico en el cableado del radar meteorológico detectado durante las pruebas funcionales rutinarias de prevuelo.,Electronica,Ingenieria,SI,NO,1141.0
+Tornillería suministrada sin trazabilidad para el cárter del ventilador detectado durante las pruebas funcionales rutinarias de prevuelo.,Motor,Calidad,SI,SI,72.2
+Desviación estructural observada en el reverso de empuje observado tras la limpieza por ultrasonidos en la línea de reparación.,Motor,Ingenieria,SI,SI,614.6
+Holgura fuera de tolerancia en el eje de transmisión principal detectado durante las pruebas funcionales rutinarias de prevuelo.,Motor,Ingenieria,SI,,
+Fallo catastrófico del material en las sondas Pitot de respaldo tras la notificación formal del operador de la aerolínea.,Electronica,Ingenieria,SI,SI,403.2
+Lote de consumibles caducado utilizado en el mazo de cables del sistema de navegación reportado por el operario del turno de noche en el hangar 3.,Electronica,Calidad,NO,NO,778.1
+Espesor de recubrimiento fuera de rango en los soportes del pilón del motor durante la inspección visual tras la llegada del vuelo.,Estructura,Calidad,SI,SI,943.7
+Pérdida de presión neumática en la cuaderna de sección de cola observado tras la limpieza por ultrasonidos en la línea de reparación.,Estructura,Mantenimiento,SI,NO,1112.5
+Corrosión superficial leve detectada en la cámara de combustión identificado en la recepción de materiales de la cadena de suministro.,Motor,Mantenimiento,NO,NO,138.9
+Estudio de resistencia requerido para el panel de aviónica principal reportado por el operario del turno de noche en el hangar 3.,Electronica,Ingenieria,SI,SI,
+Daño por herramientas (FOD) causado por el operario en las antenas de comunicación VHF debido presumiblemente a condiciones ambientales extremas en operación.,Electronica,Calidad,NO,SI,270.5
+Fuga de fluido hidráulico localizada en el borde de ataque del ala izquierda detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Estructura,Mantenimiento,SI,NO,
+Sustitución preventiva de juntas y sellos de el computador del sistema de control de vuelo observado tras la limpieza por ultrasonidos en la línea de reparación.,Electronica,Mantenimiento,SI,NO,1155.1
+Falta certificado de conformidad en lote de las baterías de emergencia de litio debido presumiblemente a condiciones ambientales extremas en operación.,Electronica,Calidad,SI,SI,124.7
+Firma omitida en la orden de liberación de las llantas del tren principal tras la notificación formal del operador de la aerolínea.,Tren_Aterrizaje,Calidad,NO,NO,779.6
+Luz de aviso activada en cabina referente a la unidad de potencia auxiliar (APU) control card observado tras la limpieza por ultrasonidos en la línea de reparación.,Electronica,Mantenimiento,NO,NO,257.2
+Análisis metalúrgico de urgencia en los inyectores de combustible del motor CFM56. El componente ha duplicado las horas máximas permitidas entre revisiones.,Motor,Ingenieria,SI,SI,4800.0
+Cambio de filtros y purga manual de la turbina de alta presión detectado durante las pruebas funcionales rutinarias de prevuelo.,Motor,Mantenimiento,NO,NO,67.7
+Auditoría interna detecta desviación en el proceso de los inyectores de combustible tras la notificación formal del operador de la aerolínea.,Motor,Calidad,SI,NO,672.5
+Anomalía en el comportamiento aerodinámico de las llantas del tren principal detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Ingenieria,SI,NO,690.2
+Holgura fuera de tolerancia en el panel de aviónica principal que requiere parada inmediata según el manual general de mantenimiento.,Electronica,Ingenieria,SI,SI,443.3
+Discrepancy en planos de diseño de el mazo de cables del sistema de navegación identificado en la recepción de materiales de la cadena de suministro.,Electronica,Ingenieria,SI,SI,969.6
+Pérdida de presión neumática en el computador del sistema de control de vuelo observado tras la limpieza por ultrasonidos en la línea de reparación.,Electronica,Mantenimiento,SI,NO,475.6
+Holgura fuera de tolerancia en las sondas Pitot de respaldo identificado en la recepción de materiales de la cadena de suministro.,Electronica,Ingenieria,SI,SI,1190.3
+Incumplimiento de la norma aeronáutica en el mamparo de presión posterior debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Calidad,SI,SI,
+Lote de consumibles caducado utilizado en los inyectores de combustible detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Calidad,SI,SI,
+Espesor de recubrimiento fuera de rango en el computador del sistema de control de vuelo detectado durante las pruebas funcionales rutinarias de prevuelo.,Electronica,Calidad,SI,NO,808.3
+Luz de aviso activada en cabina referente a las llantas del tren principal identificado en la recepción de materiales de la cadena de suministro.,Tren_Aterrizaje,Mantenimiento,NO,NO,464.9
+Desviación estructural observada en el borde de ataque del ala izquierda debido presumiblemente a condiciones ambientales extremas en operación.,Estructura,Ingenieria,SI,NO,67.3
+Cableado deshilachado debido a rozamiento en el computador del sistema de control de vuelo debido presumiblemente a condiciones ambientales extremas en operación.,Electronica,Mantenimiento,NO,NO,
+Daño por herramientas (FOD) causado por el operario en el pasador de seguridad del tren reportado por el operario del turno de noche en el hangar 3.,Tren_Aterrizaje,Calidad,NO,SI,718.3
+Necesidad de rediseño en el soporte de el pasador de seguridad del tren tras la notificación formal del operador de la aerolínea.,Tren_Aterrizaje,Ingenieria,SI,SI,360.3
+Desgaste severo por uso operativo en el reverso de empuje que requiere parada inmediata según el manual general de mantenimiento.,,Mantenimiento,NO,NO,537.8
+Documentación del proveedor incompleta para el borde de ataque del ala izquierda que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Calidad,NO,,61.9
+Cableado deshilachado debido a rozamiento en los sensores de proximidad de bloqueo detectado durante las pruebas funcionales rutinarias de prevuelo.,Tren_Aterrizaje,Mantenimiento,NO,NO,729.0
+Tornillería suministrada sin trazabilidad para el reverso de empuje detectado durante las pruebas funcionales rutinarias de prevuelo.,,Calidad,SI,SI,
+Fisura macroscópica localizada en el soporte del pilón del motor izquierdo. El componente operaba con una extensión de horas de vuelo no validada.,Estructura,Ingenieria,SI,NO,3600.0
+Desviación estructural observada en el muelle de extensión del amortiguador detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Tren_Aterrizaje,Ingenieria,SI,SI,612.5
+Cableado deshilachado debido a rozamiento en las baterías de emergencia de litio tras la notificación formal del operador de la aerolínea.,Electronica,Mantenimiento,NO,NO,
+Auditoría interna detecta desviación en el proceso de el eje de transmisión principal detectado en el banco de pruebas hidráulicas antes del ensamblaje.,Motor,Calidad,SI,NO,
+Documentación del proveedor incompleta para el cárter del ventilador detectado durante las pruebas funcionales rutinarias de prevuelo.,Motor,Calidad,SI,SI,383.7
+Falta certificado de conformidad en lote de el mazo de cables del sistema de navegación reportado por el operario del turno de noche en el hangar 3.,Electronica,Calidad,SI,NO,157.0
+Error de trazabilidad detectada en los soportes del pilón del motor que requiere parada inmediata según el manual general de mantenimiento.,Estructura,Calidad,NO,SI,
